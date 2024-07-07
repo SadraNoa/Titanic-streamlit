@@ -1,6 +1,6 @@
 import streamlit as st
 from utils import PrepProcesor, columns 
-
+import xgboost
 import numpy as np
 import pandas as pd
 import joblib
